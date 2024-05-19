@@ -163,7 +163,7 @@
   background-color: #33f; /* Change 'your-primary-dark-color' to your desired color value */
 }
 
-
+/* image below css contrl */
 @media screen and (max-width: 640px) {
   .picbelow {
    width: 6rem;
